@@ -1,23 +1,35 @@
 {
   "name": "navtech-sidebar-automator",
   "productName": "NavTech Sidebar Automator",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "NavTech Sidebar Automator",
   "main": "main.js",
   "author": "NavTech",
   "license": "ISC",
   "type": "commonjs",
+
   "scripts": {
     "start": "electron .",
-    "package-win": "electron-packager . \"NavTech Sidebar Automator\" --platform=win32 --arch=x64 --icon=build/icon.ico --overwrite"
+    "build-mac": "electron-builder --mac dmg"
   },
+
   "dependencies": {
     "axios": "^1.13.5",
     "cheerio": "^1.2.0",
     "https-proxy-agent": "^7.0.6"
   },
+
   "devDependencies": {
     "electron": "^40.4.1",
-    "electron-packager": "^17.1.1"
+    "electron-builder": "^26.7.0"
+  },
+
+  "build": {
+    "appId": "com.navtech.sidebar",
+    "productName": "NavTech Sidebar Automator",
+    "mac": {
+      "target": "dmg",
+      "icon": "build/icon.icns"
+    }
   }
 }

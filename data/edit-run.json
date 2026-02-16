@@ -1,0 +1,44 @@
+{
+  "rows": [
+    {
+      "oldDomain": "zhanshenschool.com",
+      "oldKeyword": "domain test",
+      "oldUrl": "https://domaintest.com",
+      "newDomain": "zhanshenschool.com",
+      "newKeyword": "domain test 1",
+      "newUrl": "https://domaintest1.com",
+      "status": "Success",
+      "message": "Done",
+      "rowId": "1771239949265_0",
+      "domainSetName": "widget test"
+    },
+    {
+      "oldDomain": "777kkuu.com",
+      "oldKeyword": "domain test",
+      "oldUrl": "https://domaintest.com",
+      "newDomain": "777kkuu.com",
+      "newKeyword": "domain test 1",
+      "newUrl": "https://domaintest1.com",
+      "status": "Success",
+      "message": "Done",
+      "rowId": "1771239949265_1",
+      "domainSetName": "widget test"
+    },
+    {
+      "oldDomain": "crystalsoundmusicgroup.com",
+      "oldKeyword": "domain test",
+      "oldUrl": "https://domaintest.com",
+      "newDomain": "crystalsoundmusicgroup.com",
+      "newKeyword": "domain test 1",
+      "newUrl": "https://domaintest1.com",
+      "status": "Success",
+      "message": "Done",
+      "rowId": "1771239949265_2",
+      "domainSetName": "widget test"
+    }
+  ],
+  "index": 0,
+  "running": false,
+  "mode": "edit",
+  "domainSet": "widget test"
+}

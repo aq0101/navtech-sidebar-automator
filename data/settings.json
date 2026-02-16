@@ -1,0 +1,38 @@
+{
+  "execution": {
+    "projectThreads": 1,
+    "domainThreads": 1,
+    "delaySeconds": 2,
+    "maxRetries": 2
+  },
+  "proxies": [
+    {
+      "ip": "196.244.48.126",
+      "port": "12345",
+      "user": "naveed",
+      "pass": "Qwerty_123ABC",
+      "status": "active"
+    },
+    {
+      "ip": "103.204.109.135",
+      "port": "12345",
+      "user": "naveed",
+      "pass": "Qwerty_123ABC",
+      "status": "active"
+    },
+    {
+      "ip": "196.244.48.26",
+      "port": "12345",
+      "user": "naveed",
+      "pass": "Qwerty_123ABC",
+      "status": "active"
+    },
+    {
+      "ip": "103.204.108.142",
+      "port": "12345",
+      "user": "naveed",
+      "pass": "Qwerty_123ABC",
+      "status": "active"
+    }
+  ]
+}

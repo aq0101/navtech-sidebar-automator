@@ -1,0 +1,1705 @@
+[
+  {
+    "id": "1c93e850-0bed-4de1-99d5-3c259c2186d1",
+    "name": "https://disdiknaganraya.com/",
+    "created": 1770456621210,
+    "status": "Completed",
+    "config": {
+      "mode": "normal",
+      "domainSet": "widget test",
+      "desiredTotalLinks": 50,
+      "keywordSets": [
+        {
+          "id": "ed9b7a58-2a09-455c-9ab7-c136f6c8d96c",
+          "urls": "https://disdiknaganraya.com/",
+          "keywords": "Live Draw HK @ 3 sidebars\nLive Draw SDY @ 3 sidebars\nLive Draw SGP @ 3 sidebars\nTogel Online @ 3 sidebars\nLive HK @ 3 sidebars\nLive SDY @ 3 sidebars\nLive SGP @ 3 sidebars\nTogel @ 3 sidebars\nTogel Hongkong @ 3 sidebars\nTogel Singapore @ 3 sidebars\nTogel Sydney @ 2 sidebars\nHongkong Pools @ 2 sidebars\nSydney Pools @ 2 sidebars\nSingapore Pools @ 2 sidebars\nSDY Lotto @ 2 sidebars\nHK Lotto @ 2 sidebars\nData HK @ 2 sidebars\nData SGP @ 2 sidebars\nPengeluaran HK @ 2 sidebars\nKeluaran SGP @ 2 sidebars",
+          "requiredLinks": "50"
+        },
+        {
+          "id": "cf86df36-d88b-4419-9185-93065a4911c9",
+          "urls": "",
+          "keywords": "",
+          "requiredLinks": ""
+        }
+      ],
+      "sheetDomains": "",
+      "sheetUrls": "",
+      "sheetKeywords": ""
+    },
+    "run": {
+      "startedAt": 1770456645338,
+      "domainSet": "High dr .com",
+      "target": 50,
+      "domains": [
+        {
+          "domain": "https://gss330.com|admin|ND5TXNo9QcwlBTOCTW3uJmVj",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://9ccms17.com|admin|YUItFYJCyuT116SQ9DFAOrQD",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://tocnguoiviet.com|admin|xeo4ZBjo5AulpILaFmU18PSh",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://rheaumeproductions.com|admin|msWGWkEKXXiqcYFSVYxgS6Lt",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://003br.com|admin|zm5daJgL41paeFCilmJ4H3y4",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://73500k.com|admin|fIgTcadTB69yauPQN5Q0q71H",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://cqgjjy.com|admin|AeG2Ez8ZnOnxOOfjwcIDbmFJ",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://excursionproject.com|admin|cSlAFzu221fKgtPPFQgyHBZZ",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://hostcoint.com|admin|1JUkv4vftJhh32cKD4UJJ9dG",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://dorapinajoffroycollageart.com|admin|Kbf697DKYeYyaVSnLaqPR0OE",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Online",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://qmlyh.com|admin|nQbvoNIfwblagN3k2D482kZO",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw HK",
+          "setIndex": 0,
+          "status": "Failed",
+          "role": "primary",
+          "message": "read ECONNRESET",
+          "retries": 3
+        },
+        {
+          "domain": "https://bennydh.com|admin|lHnqxZ8CLkNxKbaAPYTE4KA8",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Online",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://fuli288.com|admin|VAGBLe7OywzNapgfalmlfOXF",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ym583.com|admin|uUT6P8FDb903xhVInACBBiC4",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw HK",
+          "setIndex": 0,
+          "status": "Failed",
+          "role": "primary",
+          "message": "Widget creation failed",
+          "retries": 3
+        },
+        {
+          "domain": "https://sawadgifts.com|admin|vcfGqh5A4a74FMSx4XRQdxMS",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ag2626a.com|admin|rlEF8Vp5SCEqctADealbSXQy",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://helaaaal.com|admin|KA2qgPPCSRXG6E0jUEvCvuEY",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://bht-edata.com|admin|Fv2wWMdLy2rjROr7QE3GjSlZ",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://365mimi.com|admin|CcMJ2T23AJAN8UAC4YKVEjYX",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://bht-smart.com|admin|E7bjFJ89JMmaKFfKLbLloMNZ",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://networkresourcedistribution.com|admin|UbsbWZ8Hj2nscpVLbxx3Wqyv",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://jojobet217.com|admin|oU3oCQuq5T40Y24vHUktRAsy",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://5025oceanview.com|admin|vnimkVDRd5sV3G3elF3hajJf",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://sharepostadvertising.com|admin|8atQTq3eytAMudse5W5gLqno",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://i-fashionmgmt.com|admin|G7UZU3Ew0AFJbZ2J2GzaSEk6",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Hongkong",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://1ancorp-mortgage.com|admin|jxdZVgITKO3xKcThZqqU3wGs",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Hongkong",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://cialiswalmartrx.com|admin|SzvHPJPEjaWPVWPspilWfwnF",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Hongkong",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://dch7.com|admin|75t6U1VadTpvdEVwqtHLmodM",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Singapore",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ashtutorial.com|admin|FDSc43D3Sl3t104cfdjg4sv4",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Singapore",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://disai-power.com|admin|nydJpHCitn2ABJ6rhAxuNLzq",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Singapore",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://cttrad.com|admin|iFFxYZLlv0dCTUWf1chepdVe",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Sydney",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://abgniaga.com|admin|eAHJB49qtU2H7pARaNeH8ept",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Sydney",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://10daylisting.com|admin|LKkcvwFiSkb6nxwtQ9DUzryu",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Hongkong Pools",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://cp1234333.com|admin|qIslXN1b96N5wTIZEGZTsuVt",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw HK",
+          "setIndex": 0,
+          "status": "Failed",
+          "role": "primary",
+          "message": "No sidebars found",
+          "retries": 3
+        },
+        {
+          "domain": "https://cialiswalmarts.com|admin|qYzur5bwndJTCfj1JGWxBO8c",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Sydney Pools",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://abalielektronik.com|admin|hsmfffLUJjog1hnP3NOFD1PE",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Sydney Pools",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://yokohama-yr.com|admin|K0z0s6VE7HwqqVcT0tCgDZFq",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Singapore Pools",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://zmmxc.com|admin|2A7RNkQBxJOeEHsbLwHEBVch",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Singapore Pools",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ttohappy.com|admin|byNxNEFvx0gB0UR2E3a3sowb",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "SDY Lotto",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://viagramucizesi.com|admin|N8w8MbCvF4a8trNL62XMBVvX",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "SDY Lotto",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://vanillaponds.com|admin|rfbxyrB4MpGflezVz6L9mDdt",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "HK Lotto",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://dl2424.com|admin|3XkEtyxDvEVgWDllf00imv0s",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "HK Lotto",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://lehent.com|admin|0YFi5V0XwUrmOguKWsb0lkrN",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Data HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://rahulonlineservice.com|admin|pyPANxlz3RF3Xni7oUWbV4xi",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Data HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://duclosdesabyssesdeprovence.com|admin|gguLvBp4vj3NL8VfkHW2MW3N",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Data SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://thewwwebshop.com|admin|O0AnnM8zgpxDdZcaWG4lw88l",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Data SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ldpxw.com|admin|u2gPZM3Rk1ufwcPuimTZdZO8",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Pengeluaran HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://promo700.com|admin|P7NP2BENzCUi3hqWUhIU1D6S",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Pengeluaran HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://pixprovirtualtours.com|admin|W28GgScSQO3wOb4yDmqqWVDq",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Keluaran SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://jblognews.com|admin|HCTlgNzDdfmZGVtvwV2OmN2s",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Keluaran SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://lc6817.com|admin|1reMVYMDmR8UyDpSxX2dxO4h",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://csgosm.com|admin|1RZJXAuUsSN5JU4iCFj5ISp8",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://betadomainer.com|admin|f1w1nSJGPr8LrMIKnfv8xYes",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://gjbrq.com|admin|N3x532MYZripSzJKrsUE4qHk",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://wwwallenrailroad.com|admin|wiiJQ2AamC5P11S3ghEBREgN",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://glasgowcoachdriver.com|admin|qKfJR7tt6BZXG2AI1P2Io2X0",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ipostvietnam.com|admin|2JhlCLb9YtgidqhJhvJrbjaZ",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://dolcehut.com|admin|RyP5pupXn57vFOJYNGsHd6xO",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://gdxingfucar.com|admin|qP1HCHJ1lXV8TfhR7Clzv94P",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live Draw SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://cp585b.com|admin|cuC0N93diuDnMGAihKZ2zqE1",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Online",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://web-arhitect.com|admin|v3ULVol8YhpBJ1SMtQKZY8UJ",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Online",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://epimedyumsatis.com|admin|ZiCwAFMVCXWhNwjQ642TLvZG",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Online",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://hasanefendioglu.com|admin|7XBKZJ9zNpCCIvNEpB2HXYt9",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://15014440672.com|admin|pAMzLl1lzZ1QgYsKbWFl4suo",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live HK",
+          "setIndex": 0,
+          "status": "Failed",
+          "role": "extra",
+          "message": "No sidebars found",
+          "retries": 3
+        },
+        {
+          "domain": "https://468lockehaven.com|admin|tXCx8KtlM6Lq6KLIpFjTmmym",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://c2525aj.com|admin|Ycu2MnUWVpuByGzL6sWYENtw",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://abledaicom.com|admin|WMYUAyOilVV04MQv45GKLUCY",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://shlf1333.com|admin|wXw8edwp2gPiYDm0XBicOLuN",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SDY",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://129654.com|admin|02GTxyLDD5GDIX59MN7hSNtO",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SGP",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://winningbacara.com|admin|mphV3SeVgvtzyqhazIaFG9jo",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SGP",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://203bx.com|admin|JuhS6Mg36QZhBdSJmJBqpKbZ",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Live SGP",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://madprobationtools.com|admin|aveqjX2vhKQ9hVRnfUGzNAPS",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://a88dy.com|admin|lrP5Wj3T58FfCQAMZRmO33Y2",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://js31311.com|admin|gGa0aEhzxOpdYUrSSTIZyiy6",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://mstraincreations.com|admin|Hvt3Er0eGWOvu9TVMJIVWGlY",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Hongkong",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://linyichaoyang.com|admin|1lJxMTWecUuh7zlVeQiTPh9N",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Hongkong",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://fianceevisasecrets.com|admin|m0sHzEGGjZHrxGB3oG4AGoIa",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Hongkong",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://944ppp.com|admin|7qIjhdgT6npExGnPsovagB12",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Singapore",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://orsasecurity.com|admin|YJKzIyGCIWn4bGcwC9tk58FI",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Singapore",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://neverfailgr0up.com|admin|CnTCFSxWfzJKYRI581ePxJEe",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Singapore",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://nextelonlinenextel.com|admin|umxERbAhGZk2Z8QjOHA7xXbP",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Sydney",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ddz955.com|admin|8RG2tD8FPY1w1bRMNDx1HHqJ",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Togel Sydney",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://klickomedia.com|admin|PNLzeWesNOfWuMh5yR8gv9Sq",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Hongkong Pools",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ddz787.com|admin|L6KXaEET55zWMyFdFgkR3gWs",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Hongkong Pools",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://ddz400.com|admin|JUzmdhXPTJ8HXhGvU2JMw2C6",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Sydney Pools",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://22223339.com|admin|IkPQDsD3zs5T2DQV3XOxloTQ",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Sydney Pools",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://melli118.com|admin|ny6PRcuYEsuiEkZBC1EIgKxY",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Singapore Pools",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://1nfini.com|admin|hM5j5ScLkuGBV5F0bSGsth5U",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Singapore Pools",
+          "setIndex": 0,
+          "status": "Running",
+          "role": "extra",
+          "message": "Executing",
+          "retries": 0
+        },
+        {
+          "domain": "https://hongxingxianghui.com|admin|jicob902EVwsFsTLLx3HbvYF",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "SDY Lotto",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://640962.com|admin|8cEnca0WbFq5fmK00n6w0izl",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "SDY Lotto",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ddz40.com|admin|XXU4FoqDB6m8CARi4VusGDsf",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "HK Lotto",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ddz040.com|admin|ewGb1o6Krl8Wovrwf6zSDiKv",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "HK Lotto",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://off-graceful.com|admin|2H2kKVGiOA1k2K9HAsrrljmL",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Data HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://digitaladvertisingassocation.com|admin|LJZscYQi0BIbaEQb7SRGEX6y",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Data HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://solakllp.com|admin|4saNXJRH2GRAhdG04twYPi5O",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Data SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://ipodderlemon.com|admin|Jl3tarfj5teTc8uyHZBiggdj",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Data SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://taalem-university.com|admin|O8XfL79aAvZyvTZciEwLtvuO",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Pengeluaran HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://quatangchonugioi.com|admin|FzNMBhEaZlWbYdx1htdtAnxz",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Pengeluaran HK",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://klasbahis16.com|admin|3UqazKFOEGN6oLkA37JpBLJ8",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Keluaran SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://koutsujiko-alg.com|admin|0vjbNI78akFKYIy0DgbY5yOa",
+          "url": "https://disdiknaganraya.com/",
+          "keyword": "Keluaran SGP",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "extra",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://16campbell.com|admin|stMNf6ukPBPOVqjUR4XEee2M",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://ddz743.com|admin|8RbPpngRRJj1Rtt4Z10ZFh6s",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://criar-site-app.com|admin|07Wc7dpCmw1ZfHOAVOWLb7yA",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://electronicabrando.com|admin|mdUvUbgCsBD6yftoWiQ3d0a8",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://logiclearners.com|admin|7v1xdRHJtO0907CULP8xMyT3",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://pennystocksemailalerts.com|admin|J6zpo2x4YbMA5DJpiV8s7A4h",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://esabl.com|admin|Z0okML5aC4nb7qNKx89xaNOO",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://ddz462.com|admin|Yu9LWFcLknduErdS9o8x4pCF",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://klasbahis14.com|admin|l0Jl80KwrnRvF0d0GHjmg8mU",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://9570b.com|admin|afWJu0eim89fXxZl17HydNiF",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://227967.com|admin|igPrB9IKqju3XM73xjl5gbFf",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://snowcloudrider.com|admin|7AihoEKSj5bQm4aTbSlQmpb2",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://sucesso-de-vendas.com|admin|mDBR1aPwfFSQR7lDhLwle0Ge",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://akitawebdesign.com|admin|Jk5R5zwZbuoiYdV5xx16dM8P",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://fundamentalsforever.com|admin|6RbUyW3qekqRo7W67eWffO7m",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://704631.com|admin|g5lK0TcTo9A2CfVStYy0UiUP",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://ddz942.com|admin|rWUNtMv0NImTQJYVpo5ygQDG",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://5669066.com|admin|q4cOxuK7Dn9gYgcJEvunhSMP",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://hncppf.com|admin|IFaO7U5kDrQ8KMHSPHzSuhcR",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://ag86129.com|admin|yekO5MQYwI1B4JmoA7Tm4pJI",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://bilianayotovskadiet.com|admin|2Yrvff8LVBTVvjppgPq4bIPa",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://ddz786.com|admin|g7eFVRpeSCGSp9ClrCLJ8m82",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://350-888.com|admin|uzMooKikiq2UdeaG1HFJ4UoT",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://wpcleangreen.com|admin|5E7e6q0n6pSTbEPfalxN7H2Z",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://bestwomentravelbags.com|admin|GXX6JsDAmWK77dmWmwfAEPo0",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://nbdayegroup.com|admin|kf5clzaqzAxTe0RrrYN7lNOh",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://livertysol.com|admin|2C9bmBEZWxcrcxo3StKZLzUR",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://sandiegogaragedoorrepairservice.com|admin|B6aOi2MdP2Q7KmSguEs1t399",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://monfb8.com|admin|hSnPgPrDIF8M55HPTr17NQo9",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://wssxsyj.com|admin|MARsnJxCMBXgEVLfSqRG8nHR",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://avadachildthemes.com|admin|hyzvdKODd7fX9uhoW2caF2e1",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://cookiecompliant.com|admin|zH6cUaA0SurjZsSIU6RJ9vrx",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://7037233.com|admin|2JSiPA3LpGpEwLn7Lbx9dIqu",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://salon365aff.com|admin|hIJZ0XYhziNsPdPcm5Etqx08",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://ddz481.com|admin|cnjIMDbDarqkf6pn9uTScBL2",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://garagedooropenersriverside.com|admin|2ARkvcHFxMzAlk2Ww3d9be7D",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        },
+        {
+          "domain": "https://thietkeldp.com|admin|y0GnCWqqeeLLRAgCDGb6IOMb",
+          "url": "",
+          "keyword": "",
+          "setIndex": null,
+          "status": "Unused",
+          "role": "extra",
+          "message": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4061a0e-6c21-4ae5-bba8-e3c6529c8c64",
+    "name": "new widget test",
+    "created": 1771051052310,
+    "status": "Completed",
+    "config": {
+      "mode": "normal",
+      "domainSet": "widget test",
+      "desiredTotalLinks": 3,
+      "keywordSets": [
+        {
+          "id": "c306fbf0-127e-40c7-900c-177b5a87936a",
+          "urls": "https://newwidgettest.com",
+          "keywords": "new widget test",
+          "requiredLinks": "3"
+        }
+      ],
+      "sheetDomains": "",
+      "sheetUrls": "",
+      "sheetKeywords": ""
+    },
+    "run": {
+      "startedAt": 1771051078455,
+      "domainSet": "widget test",
+      "target": 3,
+      "domains": [
+        {
+          "domain": "https://zhanshenschool.com|admin|sMo0tgh0iGV7y6JM2BCH8Z10",
+          "url": "https://newwidgettest.com",
+          "keyword": "new widget test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://777kkuu.com|admin|mqzEGBc8l5ifLjYZP5WrOFJP",
+          "url": "https://newwidgettest.com",
+          "keyword": "new widget test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://crystalsoundmusicgroup.com|admin|bhYS963jDy0Dj1tMC6FyzTx5",
+          "url": "https://newwidgettest.com",
+          "keyword": "new widget test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": "e17fe13a-68f2-4b2e-9bc0-21a8f9444456",
+    "name": "stop test",
+    "created": 1771052333054,
+    "status": "Completed",
+    "config": {
+      "mode": "normal",
+      "domainSet": "new test",
+      "desiredTotalLinks": 5,
+      "keywordSets": [
+        {
+          "id": "114096f4-3785-4276-8219-0e7506e338e6",
+          "urls": "http://stoptest.com",
+          "keywords": "stop test",
+          "requiredLinks": "5"
+        }
+      ],
+      "sheetDomains": "",
+      "sheetUrls": "",
+      "sheetKeywords": ""
+    },
+    "run": {
+      "startedAt": 1771052352734,
+      "domainSet": "new test",
+      "target": 5,
+      "domains": [
+        {
+          "domain": "https://d1screet.com|admin|I5xOqPOCq1f94rFjtjqvm85w",
+          "url": "http://stoptest.com",
+          "keyword": "stop test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://aut0matedbuildings.com|admin|Ek1gYqEcduIAkiYIrYB5h9oV",
+          "url": "http://stoptest.com",
+          "keyword": "stop test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://altav1sta.com|admin|32NdNfFpoD5EY2LHGKccliDQ",
+          "url": "http://stoptest.com",
+          "keyword": "stop test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://barrrepo1t.com|admin|LDAWGimEUG7UyPEkxSkDdZhC",
+          "url": "http://stoptest.com",
+          "keyword": "stop test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://arbitr0n.com|admin|9cqbG5bSAP5U7x08bOMUv5Eh",
+          "url": "http://stoptest.com",
+          "keyword": "stop test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": "ae0e22ea-5068-4c0f-a5cb-e8aaa46a9671",
+    "name": "grand test",
+    "created": 1771070661685,
+    "status": "Completed",
+    "config": {
+      "mode": "normal",
+      "domainSet": "new test",
+      "desiredTotalLinks": 5,
+      "keywordSets": [
+        {
+          "id": "bb83f047-9ca4-46d6-ab1e-18f714e4127f",
+          "urls": "https://grandtes.com",
+          "keywords": "grand test",
+          "requiredLinks": "5"
+        }
+      ],
+      "sheetDomains": "",
+      "sheetUrls": "",
+      "sheetKeywords": ""
+    },
+    "run": {
+      "startedAt": 1771070684341,
+      "domainSet": "new test",
+      "target": 5,
+      "domains": [
+        {
+          "domain": "https://d1screet.com|admin|I5xOqPOCq1f94rFjtjqvm85w",
+          "url": "https://grandtes.com",
+          "keyword": "grand test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://aut0matedbuildings.com|admin|Ek1gYqEcduIAkiYIrYB5h9oV",
+          "url": "https://grandtes.com",
+          "keyword": "grand test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://altav1sta.com|admin|32NdNfFpoD5EY2LHGKccliDQ",
+          "url": "https://grandtes.com",
+          "keyword": "grand test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://barrrepo1t.com|admin|LDAWGimEUG7UyPEkxSkDdZhC",
+          "url": "https://grandtes.com",
+          "keyword": "grand test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://arbitr0n.com|admin|9cqbG5bSAP5U7x08bOMUv5Eh",
+          "url": "https://grandtes.com",
+          "keyword": "grand test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": "129eaff6-e154-4027-9710-772629678411",
+    "name": "s",
+    "created": 1771217922703,
+    "status": "Completed",
+    "config": {
+      "mode": "normal",
+      "domainSet": "widget test",
+      "desiredTotalLinks": 3,
+      "keywordSets": [
+        {
+          "id": "f7bdd0a5-06ce-4ad7-91f4-2c88f6b424de",
+          "urls": "https://finalttest.com",
+          "keywords": "final ttest",
+          "requiredLinks": "3"
+        }
+      ],
+      "sheetDomains": "",
+      "sheetUrls": "",
+      "sheetKeywords": ""
+    },
+    "run": {
+      "startedAt": 1771217946392,
+      "domainSet": "widget test",
+      "target": 3,
+      "domains": [
+        {
+          "domain": "https://zhanshenschool.com|admin|sMo0tgh0iGV7y6JM2BCH8Z10",
+          "url": "https://finalttest.com",
+          "keyword": "final ttest",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://777kkuu.com|admin|mqzEGBc8l5ifLjYZP5WrOFJP",
+          "url": "https://finalttest.com",
+          "keyword": "final ttest",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://crystalsoundmusicgroup.com|admin|bhYS963jDy0Dj1tMC6FyzTx5",
+          "url": "https://finalttest.com",
+          "keyword": "final ttest",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        }
+      ]
+    }
+  },
+  {
+    "id": "14df83b9-818f-4267-8bfd-f4cd4e969e86",
+    "name": "ali",
+    "created": 1771231703503,
+    "status": "Completed",
+    "config": {
+      "mode": "normal",
+      "domainSet": "widget test",
+      "desiredTotalLinks": 3,
+      "keywordSets": [
+        {
+          "id": "68ed02a2-9e9e-4278-9f81-f1ab9d21a5dc",
+          "urls": "https://domaintest.com",
+          "keywords": "domain test",
+          "requiredLinks": "3"
+        }
+      ],
+      "sheetDomains": "",
+      "sheetUrls": "",
+      "sheetKeywords": ""
+    },
+    "run": {
+      "startedAt": 1771231723439,
+      "domainSet": "widget test",
+      "target": 3,
+      "domains": [
+        {
+          "domain": "https://zhanshenschool.com|admin|sMo0tgh0iGV7y6JM2BCH8Z10",
+          "url": "https://domaintest.com",
+          "keyword": "domain test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://777kkuu.com|admin|mqzEGBc8l5ifLjYZP5WrOFJP",
+          "url": "https://domaintest.com",
+          "keyword": "domain test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        },
+        {
+          "domain": "https://crystalsoundmusicgroup.com|admin|bhYS963jDy0Dj1tMC6FyzTx5",
+          "url": "https://domaintest.com",
+          "keyword": "domain test",
+          "setIndex": 0,
+          "status": "Success",
+          "role": "primary",
+          "message": "Done",
+          "retries": 0
+        }
+      ]
+    }
+  }
+]
